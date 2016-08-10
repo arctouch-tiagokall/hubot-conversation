@@ -1,5 +1,6 @@
 {
   "name": "hubot-conversation",
+  "private": true,
   "version": "1.1.0",
   "description": "A utility for having conversation sessions with Hubot",
   "main": "index.js",
@@ -11,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmarkus/hubot-conversation.git"
+    "url": "git+https://github.com/arctouch-tiagokall/hubot-conversation.git"
   },
   "keywords": [
     "hubot",
@@ -22,9 +23,9 @@
   "author": "@lmarkus",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lmarkus/hubot-conversation/issues"
+    "url": "https://github.com/arctouch-tiagokall/hubot-conversation/issues"
   },
-  "homepage": "https://github.com/lmarkus/hubot-conversation#readme",
+  "homepage": "https://github.com/arctouch-tiagokall/hubot-conversation#readme",
   "devDependencies": {
     "chai": "^3.3.0",
     "coffee-script": "^1.10.0",
